@@ -1,0 +1,54 @@
+.bg-inverse {
+	color: #eceeef;
+	background-color: #373a3c;
+}
+
+.jumbotron {
+	background-color: cyan;
+}
+
+.navbar-brand {
+	color: red;
+	font-size: 24px;
+}
+body {
+	background: lightblue !important;
+}
+
+p {
+	color:black;
+	font-size: 30px;
+}
+
+.navbar-brand:hover {
+	color: green
+	;
+}
+.navbar-nav .nav.item {
+	float: left;
+}
+
+nav ul li a {
+    color: #ff66ff;
+}
+
+nav ul li:hover {
+color: red;
+}
+
+.nav-item:hover {
+	background-color: red !important;
+	color: black;
+}
+
+.nav-link .nav-link:hover {
+	background-color: red !important;
+}
+
+.navbar-toggle {
+	border-color: green;	
+}
+
+.icon-bar {
+	background-color: blue;
+}
